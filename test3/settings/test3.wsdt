@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>test3/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>165</Column0><Column1>6</Column1><Column2>27</Column2><Column3>0</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window><Window><Factory>Select-Ambiguous-Definitions</Factory></Window><Window><Factory>Find-All-Declarations</Factory></Window><Window><Factory>Find-All-References</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1036</ColumnWidth1><ColumnWidth2>276</ColumnWidth2><ColumnWidth3>69</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1030</ColumnWidth1></Debug-Log><DRIVER_CUSTOM_SFR><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><col-names><item>Access</item><item>Address</item><item>Name</item><item>Size</item><item>Zone</item><item>_I0</item></col-names><col-widths><item>120</item><item>150</item><item>150</item><item>50</item><item>120</item><item>20</item></col-widths></DRIVER_CUSTOM_SFR><Select-Ambiguous-Definitions><ColumnWidth0>414</ColumnWidth0><ColumnWidth1>59</ColumnWidth1><ColumnWidth2>709</ColumnWidth2></Select-Ambiguous-Definitions><Find-All-Declarations><ColumnWidth0>414</ColumnWidth0><ColumnWidth1>59</ColumnWidth1><ColumnWidth2>709</ColumnWidth2></Find-All-Declarations><Find-All-References><ColumnWidth0>414</ColumnWidth0><ColumnWidth1>59</ColumnWidth1><ColumnWidth2>709</ColumnWidth2></Find-All-References></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-29640-16364</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>test3</ExpandedNode><ExpandedNode>test3/STM8S_Std</ExpandedNode><ExpandedNode>test3/STM8S_Std/inc</ExpandedNode><ExpandedNode>test3/STM8S_StdPeriph_Driver</ExpandedNode><ExpandedNode>test3/STM8S_StdPeriph_Driver/src</ExpandedNode><ExpandedNode>test3/Zszen_Std</ExpandedNode><ExpandedNode>test3/user</ExpandedNode><ExpandedNode>test3/user/Zszen_Std</ExpandedNode><ExpandedNode>test3/user/Zszen_Std/ZDebug.c</ExpandedNode><ExpandedNode>test3/user/inc</ExpandedNode><ExpandedNode>test3/user/src</ExpandedNode><ExpandedNode>test3/user/test</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          
+        <Tab><Identity>TabID-7669-966</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-30682-24772</Identity><TabName>Ambiguous Definitions</TabName><Factory>Select-Ambiguous-Definitions</Factory><Session/></Tab><Tab><Identity>TabID-18888-24789</Identity><TabName>Find All Declarations</TabName><Factory>Find-All-Declarations</Factory><Session/></Tab><Tab><Identity>TabID-29113-24802</Identity><TabName>Find All References</TabName><Factory>Find-All-References</Factory><Session/></Tab><Tab><Identity>TabID-32649-25427</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>4</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>463</SelStart2><SelEnd2>463</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\test\test_lightingOnWithoutTouch.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>73</YPos2><SelStart2>2273</SelStart2><SelEnd2>2273</SelEnd2></Tab><ActiveTab>1</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01BD9E78><key>iaridepm.enu1</key></Toolbar-01BD9E78></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes/></Row2><Row3><Sizes><Toolbar-0A41C510><key>debuggergui.enu1</key></Toolbar-0A41C510></Sizes></Row3></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>605</Bottom><Right>218</Right><x>-2</x><y>-2</y><xscreen>160</xscreen><yscreen>111</yscreen><sizeHorzCX>121488</sizeHorzCX><sizeHorzCY>125993</sizeHorzCY><sizeVertCX>167046</sizeVertCX><sizeVertCY>688990</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>231</Bottom><Right>1319</Right><x>-2</x><y>-2</y><xscreen>1321</xscreen><yscreen>233</yscreen><sizeHorzCX>1003037</sizeHorzCX><sizeHorzCY>264472</sizeHorzCY><sizeVertCX>121488</sizeVertCX><sizeVertCY>125993</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

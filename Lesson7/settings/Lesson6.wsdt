@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>Lesson6/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>407</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1395</ColumnWidth1><ColumnWidth2>372</ColumnWidth2><ColumnWidth3>93</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Find-in-Files><ColumnWidth0>664</ColumnWidth0><ColumnWidth1>94</ColumnWidth1><ColumnWidth2>1138</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-6804-18526</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Lesson6</ExpandedNode><ExpandedNode>Lesson6/APP</ExpandedNode><ExpandedNode>Lesson6/DataBase</ExpandedNode><ExpandedNode>Lesson6/STM8S_StdPeriph_Driver</ExpandedNode><ExpandedNode>Lesson6/STM8S_StdPeriph_Driver/inc</ExpandedNode><ExpandedNode>Lesson6/STM8S_StdPeriph_Driver/src</ExpandedNode><ExpandedNode>Lesson6/SerialPort</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-23011-23339</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-24123-1381</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SerialPort\SerialPort.c</Filename><XPos>0</XPos><YPos>27</YPos><SelStart>1024</SelStart><SelEnd>1024</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\APP\stm8s_it.c</Filename><XPos>0</XPos><YPos>335</YPos><SelStart>9707</SelStart><SelEnd>9707</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\APP\main.c</Filename><XPos>0</XPos><YPos>32</YPos><SelStart>1360</SelStart><SelEnd>1360</SelEnd></Tab><ActiveTab>2</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\DataBase\EepromMap.c</Filename><XPos>0</XPos><YPos>84</YPos><SelStart>3909</SelStart><SelEnd>3909</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\DataBase\EepromMap.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>984</SelStart><SelEnd>984</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\STM8S_StdPeriph_Driver\src\stm8s_flash.c</Filename><XPos>0</XPos><YPos>62</YPos><SelStart>4150</SelStart><SelEnd>4150</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\STM8S_StdPeriph_Driver\inc\stm8s.h</Filename><XPos>0</XPos><YPos>196</YPos><SelStart>8571</SelStart><SelEnd>8571</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\STM8S_StdPeriph_Driver\src\stm8s_uart1.c</Filename><XPos>0</XPos><YPos>160</YPos><SelStart>7416</SelStart><SelEnd>7425</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0252dd30><key>iaridepm.enu1</key></Toolbar-0252dd30></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>592</Bottom><Right>481</Right><x>-2</x><y>-2</y><xscreen>270</xscreen><yscreen>232</yscreen><sizeHorzCX>140625</sizeHorzCX><sizeHorzCY>232465</sizeHorzCY><sizeVertCX>251563</sizeVertCX><sizeVertCY>595190</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>361</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>363</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>363727</sizeHorzCY><sizeVertCX>140625</sizeVertCX><sizeVertCY>232465</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
